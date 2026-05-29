@@ -17,3 +17,7 @@ Verify data using:
 SELECT * FROM Teacher;
 SELECT * FROM Pupil;
 SELECT * FROM Subject;
+
+or clone this repository{https://github.com/gumosh1sandra/primarySchoolDB}
+Open your sql and connect your database
+Execute the script block by block
